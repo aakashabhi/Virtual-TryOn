@@ -49,9 +49,5 @@ __A computer vision and deep learning based project that enables the user to try
  * Test Images Folder has Images of face that can be used
  * Results Folder has images of faces with spectacles after being processed through the model
  
- ## Demo Video
-
-
-https://user-images.githubusercontent.com/63002725/115768564-1c637980-a3c8-11eb-8e3e-6f24d0a27293.mp4
 
 
