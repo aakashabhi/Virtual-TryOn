@@ -1,6 +1,6 @@
 # Virtual-TryOn
 
-__A computer vision and deep learning based project that enables the user to try on spectacles, watches and other accessories virtually__
+__A computer vision and deep learning based project that enables the user to try on spectacles, watches and other accessories virtually.Uses MTCNN Model for Face detection and Custom YOLOv5 Object Detection model to detect fingers.__
 
 **Run the .ipynb files in Google Colab to prevent any errors in the code**
 **Do Change the image file names in the source code if custom images are used**
